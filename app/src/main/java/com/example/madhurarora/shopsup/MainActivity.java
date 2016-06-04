@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         toolbar = (Toolbar) findViewById(R.id.actionbar_toolbar);
         setSupportActionBar(toolbar);
+
+        getSupportActionBar().setTitle("Starbucks");
         quantitySpinner = (Spinner) findViewById(R.id.spinnernumber);
 
         spinnerItem = new ArrayList<>();
