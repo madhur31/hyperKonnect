@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShopsUp</string>
+    <string name="starbucks">STARBUCKS</string>
+    <string name="desc">Coffee \u0026 Snacks</string>
+    <string name="value">worth \u20B9 250</string>
+    <string name="pointsleft">130 more to go</string>
+    
+    <string name="how_to_redeem">How to Redeem?</string>
+    <string name="redeem_coupon">Redeem the Coupon in the App</string>
+    <string name="visit_store">Visit the nearest store</string>
+    <string name="provide_code">Provide the coupon code</string>
+
+    <string name="terms">Terms \u0026 Conditions</string>
+
+    <string name="points">170</string>
+</resources>
